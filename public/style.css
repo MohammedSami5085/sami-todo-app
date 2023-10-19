@@ -1,0 +1,44 @@
+body{
+    background-image: url('https://w0.peakpx.com/wallpaper/38/39/HD-wallpaper-abstract-hexagon-blue-light.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+background-position: fixed;
+}
+
+h1{
+    font-size: 400%;
+    text-decoration: underline;
+    text-shadow: 1px 1px 0px wheat;
+    color: white;
+}
+
+button{
+    margin: 20px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+    background-color: rgb(25, 33, 93);
+    color: aliceblue;
+    font-style: italic;
+}
+
+input{
+ border-radius: 10px;
+ padding-left: 15px;
+ padding-right: 15px;
+ padding-top: 5px;
+ padding-bottom: 5px; 
+ font-size: larger;
+ font-style: italic;
+ border: 5px solid lightskyblue;
+}
+ol{
+
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 40px;
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: bolder;
+    color: rgb(249, 249, 250);
+    
+}
